@@ -14,3 +14,6 @@ Sample_work repository contains R/Python scripts developed from my previous empl
 
 **audi_content_campaign_ETL.R (R studio)**
 - This script facilitates ETL of Google Analytics data for custom content page performance analysis
+
+<H3> Python_scripts </H3>
+Mostly ETL scripts
