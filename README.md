@@ -4,8 +4,7 @@ sample_work_R
 Sample_work repository contains R/Python scripts developed from my previous employment.
 
 **Search_interest_template.R (R studio)**
-- This script produces a report that shows search volume trend by fuel type and vehicle category (SUV, Car, Truck)
-<br>
+- This script produces a report that shows search volume trend by fuel type and vehicle category (SUV, Car, Truck)<br>
 - By linking to Google Analytics API, creates a custom report across 4 views (Desktop, Mobile Web, iOS, and Android)
 - Then categorizes each vehicle by fuel type and vehicle category based on brand and model name
 
