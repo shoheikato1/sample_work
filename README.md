@@ -3,6 +3,8 @@ sample_work_R
 
 Sample_work repository contains R/Python scripts developed from my previous employment.
 
+<h3> R_scripts </h3>
+
 **Search_interest_template.R (R studio)**
 - This script produces a report that shows search volume trend by fuel type and vehicle category (SUV, Car, Truck)<br>
 
