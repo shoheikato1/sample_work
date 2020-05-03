@@ -1,3 +1,9 @@
+'''
+By connecting with Google Analytics API, this script allows a user to create a custom report including custom dimensions and custom metrics.
+This code then categorize each entry by fuel type and vehicle_category according to fuel type or vehicle brand and model name
+'''
+
+
 # STEP0: Install Packages
 
 #install.packages("RGA")
